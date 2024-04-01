@@ -35,5 +35,6 @@ public class Financial {
         rd.close();
         conn.disconnect();
         System.out.println(sb.toString());
+        System.err.println("Full Request test");
     }
 }
