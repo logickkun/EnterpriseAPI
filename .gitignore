@@ -1,0 +1,26 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+
+# Eclipse project files
+.settings/
+
+# Maven specific
+target/
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IDE specific directories
+bin/
+
+# SVN related files
+.svn/
+
+# SVN specific files
+*.svn-base
